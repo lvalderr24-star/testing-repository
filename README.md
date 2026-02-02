@@ -19,5 +19,5 @@
 
 ***
 
-##Week 4 - January 26, 2026
+## Week 4 - January 26, 2026
 -  Budget remaining: $40,000
